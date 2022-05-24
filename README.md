@@ -1,2 +1,2 @@
 # AleOS
-![пример работы](AleOS/folo1.jpg)
+![пример работы](https://github.com/SS342/AleOS/blob/main/AleOS/foto1.jpg)
