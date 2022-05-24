@@ -1,2 +1,2 @@
 # AleOS
-![пример работы](Aleos/folo1.jpg)
+![пример работы](AleOS/folo1.jpg)
